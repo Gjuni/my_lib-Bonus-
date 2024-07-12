@@ -1,5 +1,5 @@
 /** last node of the list 
- *  *lst : 첫 노드`
+ *  *lst : 첫 노드
 */
 
 #include "libft3.h"
